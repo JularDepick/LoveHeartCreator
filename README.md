@@ -24,7 +24,7 @@
 # 参考编译环境
 - 操作系统：$Windows11_64bit$
 - 编译器：$TDM-GCC-10.3.0-64bit-Release$
-- 编译参数：$-O2 -std=c++17$
+- 编译参数：$-O2 -std=c++17 -s -DNDEBUG$
 - Python版本：3.13.7
 
 # 原理分析
